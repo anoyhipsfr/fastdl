@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Ultrakill/V1/v1_wingcolour_d"
+	"$bumpmap" 			"models/Ultrakill/V1/v1_wingcolour_n"
+	
+	"$phong" "1"
+	"$phongtint" "[0.2 0.4 1]"
+	"$phongexponent" "0.66"
+	"$phongboost" "0.25"	
+	"$phongfresnelranges"	"[1 2 4]"
+	
+	"$nocull" "1"
+	"$selfillum" "1"
+}
