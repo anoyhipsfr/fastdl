@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/gruchk/oc/cool_skeleton\vans_1"
+    "$bumpmap" 		"models/gruchk/oc/cool_skeleton\vans_n"
+
+	"$surfaceprop" "Flesh"
+	"$detailscale"        "7"
+	"$detailblendfactor"  "0.4"
+	"$detailblendmode"    "0"
+	
+
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.2"
+	"$rimlightexponent" "4"
+	$halflambert 1
+}
